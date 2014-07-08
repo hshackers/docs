@@ -6,6 +6,7 @@ things like our guidelines, member information, and operating procedures.
 Documents:
 
 * [Members](members.csv)
+* [Resources](resources.md)
 
 ## Contributing
 
