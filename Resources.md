@@ -2,7 +2,7 @@ HS Hackers Resources
 =============================
 
 A collection of all of the resources compiled by the HS Hackers Community.
-Update or add any resources that you may find helpful.
+Update or add any resources that you find helpful and add on to the growing list.
 
 <h2>Learning</h2>
 * [Code Academy](http://www.codecademy.com/)
