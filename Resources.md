@@ -4,7 +4,7 @@ HS Hackers Resources
 A collection of all of the resources compiled by the HS Hackers Community.
 Update or add any resources that you find helpful and add on to the growing list.
 
-<h2>Learning</h2>
+## Learning
 * [Code Academy](http://www.codecademy.com/)
 * [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/cs)
 * [Bento](http://www.bentobox.io/)
@@ -12,9 +12,9 @@ Update or add any resources that you find helpful and add on to the growing list
 * [MIT OpenCourseware](http://ocw.mit.edu/index.htm)
 * [edX](https://www.edx.org/)
 
-<h2>E-Book/Digital Book Repositories</h2>
+## E-Book/Digital Book Repositories
 
-<h2>Development Tools</h2>
+## Development Tools
 * [Sublime Text](http://www.sublimetext.com/)
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 * [Eclipse](http://www.eclipse.org/)
