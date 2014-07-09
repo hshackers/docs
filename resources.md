@@ -20,3 +20,5 @@ Update or add any resources that you find helpful and add on to the growing list
 * [Netbeans](https://netbeans.org/)
 
 ## Hosting Services
+* [Heroku](http://www.heroku.com)
+* [DigitalOcean](http://www.digitalocean.com)
