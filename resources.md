@@ -12,6 +12,7 @@ Update or add any resources that you find helpful and add on to the growing list
 * [edX](https://www.edx.org/)
 
 ## E-Book/Digital Book Repositories
+* [Collection of CS E-Books](https://github.com/pageandrew/programming-ebooks)
 
 ## Development Tools
 * [Sublime Text](http://www.sublimetext.com/)
