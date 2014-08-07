@@ -23,3 +23,4 @@ Update or add any resources that you find helpful and add on to the growing list
 * [GitHub Pages](http://pages.github.com)
 * [Heroku](http://heroku.com)
 * [Digital Ocean](http://digitalocean.com)
+* [Rackspace](http://rackspace.com)
