@@ -76,6 +76,12 @@ comments that are empty and negative—comments that are mere name-calling.
     search would be much easier.
 * Soooo umm…anyone taking AP Latin?
   * Post in your school’s group, not here.
+* What should I use for hosting?
+  * Here is a basic guide on what solution should fix your problem.
+    Static sites (HTML/CSS/Javascript for Animations) - If your site is static, then you should use Github Pages. Here      is a guide on how to set that up: https://pages.github.com/ This option is free.
+    Dynamic Sites: People typically use Heroku for quick setup for dynamic sites, but a better option is Fortheon! It's     made by an HS Hacker member, and it's a much better deal than Heroku. Either option should work for you.
+* What should I use for domain registration?
+  * For domain registration, Namecheap is a nice deal. Many people have coupons for free domains. Instead of posting a       plea for a coupon, just ask HS Hacker member Joshua Singer; he'd be happy to get you one so that you don't spam         the different groups.
 
 **Examples of good posts (actual examples):**
 
