@@ -1,6 +1,6 @@
 # Docs
 
-This is the official documentation repository for HS Hackers. It'll contains
+This is the official documentation repository for HS Hackers. It contains
 things like our guidelines, member information, and operating procedures.
 
 Documents:
