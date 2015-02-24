@@ -21,7 +21,7 @@ them, you might be banned from the group.
 
 A crap post is one that wasn’t intended to genuinely add value to the
 community. Posts on HSH don’t have to be about hacking, because good hackers
-aren’t only interested in hacking, but they do have to something HS Hackers
+aren’t only interested in hacking, but they do have to be something HS Hackers
 would enjoy or find interesting. See the examples below for numerous examples
 of each kind of post, and explanations for their classification.
 
